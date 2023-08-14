@@ -10,6 +10,12 @@ ChatGPT国内版，自己搭建。
 - 后端，OpenAi代理接口，支持stream。
 - 支付套餐，访问次数。
 
+## AIGC方向
+
+可提供源码，欢迎一起研究探讨。
+
+<img src="./images/qrcode.jpg" width="500"/>
+
 ## 前端
 
 前端采用 [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 的二次开发，感谢该项目的开发团队。
@@ -26,6 +32,16 @@ ChatGPT国内版，自己搭建。
 
 数据库采用Redis。
 
-## AIGC方向
+<img src="./images/WechatIMG428.jpg"/>
 
-可提供源码，欢迎一起研究探讨。
+<img src="./images/WechatIMG429.jpg"/>
+
+<img src="./images/WechatIMG430.jpg"/>
+
+<img src="./images/WechatIMG426.jpg"/>
+
+<img src="./images/WechatIMG423.jpg"/>
+
+<img src="./images/WechatIMG424.jpg"/>
+
+
